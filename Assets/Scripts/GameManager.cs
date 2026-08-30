@@ -14,6 +14,14 @@ public class GameManager : MonoBehaviour
         scoring.SetScore(score);
     }
 
+    private void Update()
+    {
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
+    }
+
     public void AddScore(int points)
     {
         score += points;
