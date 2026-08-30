@@ -12,7 +12,8 @@ Unity Editor 6.5 (60000.5.10f1)
 Git if cloning the project
 -Downloading the Project
 
-If you do not have those and still want to play, you can download here.  BreakoutBuild.zip
+
+
 
 The project is available on GitHub:
 
